@@ -1,6 +1,14 @@
-- Hi, I’m @guilherme-ferraz1
-- I’m interested in mobile and web development.
-- I love to learn new and better ways to build awesome projects.
+### Hi! Welcome to my Github account.
+
+I'm a 21 years old developer from Brazil.
+
+I love to create beautiful and useful projects. 
+
+Currently I'm working as a mobile developer mainly using React native, GraphQL and Typescript. 
+
+Any doubt or suggestion you can reach me on:
+
+📧 gmedeirosferraz@me.com
 
 
 <!---
