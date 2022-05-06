@@ -2,8 +2,6 @@
 
 I'm a 21 years old developer from Brazil.
 
-I love to create beautiful and useful projects. 
-
 Currently I'm working as a mobile developer mainly using React native, GraphQL and Typescript. 
 
 Any doubt or suggestion you can reach me on:
